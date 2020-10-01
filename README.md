@@ -3,7 +3,7 @@ Facebook BruteForcer
 
 ## Author: https://github.com/harsh2527/FBruter
 
-## Facebook: @harsh2527
+## Instagram: @harsh2527
 
 FBruter is an Shell Script to perform multi-threaded brute force attack against Facebook, this script can bypass login limiting and it can test infinite number of passwords with a rate of +400 passwords/min using 20 threads.
 
@@ -27,7 +27,7 @@ chmod +x FBruter.sh
 sudo ./FBruter.sh
 ```
 
-### Install requirements (Curl):
+### Install requirements (Curl & TOR):
 
 ```
 chmod +x requirements.sh
