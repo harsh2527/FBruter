@@ -1,7 +1,7 @@
 # FBruter v1.0
 Facebook BruteForcer
 
-## Author: https://github.com/harsh2527/FBruter
+## Author: https://github.com/harsh2527
 
 ## Instagram: @harsh2527
 
